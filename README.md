@@ -39,7 +39,7 @@ This repository contains my submission for the **Growth Consultant Simulation As
 
 ## 📄 File
 
-- [`DT_Assignment_OmPorje.pdf`](./DT__Assignment_OmPorje.pdf)
+- [`DT_Assignment_OmPorje.pdf`](./DT_Assignment_OmPorje.pdf)
 
 ---
 
@@ -53,6 +53,6 @@ This repository contains my submission for the **Growth Consultant Simulation As
 
 Hi, I’m **Om Porje** — a passionate learner exploring the intersection of technology, business strategy, and data. I aspire to become a systems thinker and a growth enabler for the MSME sector.
 
-Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/om-porje/)) (add your actual link).
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/om-porje/)
 
 ---
