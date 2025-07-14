@@ -51,7 +51,7 @@ This repository contains my submission for the **Growth Consultant Simulation As
 
 ## 🔗 About Me
 
-Hi, I’m **Om Porje** — a passionate learner exploring the intersection of technology, business strategy, and data. I aspire to become a systems thinker and a growth enabler for the MSME sector.
+Hi, I’m **Om Porje** — a passionate and curious learner with a strong interest in **Data Analytics, Data Science, and Business Intelligence**. I enjoy transforming raw data into actionable insights and designing systems that enable smarter decision-making..
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/om-porje/)
 
