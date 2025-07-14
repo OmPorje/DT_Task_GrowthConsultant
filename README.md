@@ -39,7 +39,7 @@ This repository contains my submission for the **Growth Consultant Simulation As
 
 ## 📄 File
 
-- [`DT_GrowthConsultant_Assignment_OmPorje.docx`](./DT__Assignment_OmPorje.docx)
+- [`DT_GrowthConsultant_Assignment_OmPorje.docx`](./DT__Assignment_OmPorje.)pdf
 
 ---
 
